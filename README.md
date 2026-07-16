@@ -60,23 +60,6 @@ A simple budgeting application built using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
-### Student Management System
-
-A C++ console application demonstrating object-oriented programming concepts.
-
-**Skills:**
-- C++
-- OOP
-
-### Python Quiz Application
-
-A GUI quiz application using Python and Tkinter with CSV file support.
-
-**Skills:**
-- Python
-- Tkinter
-- CSV
-
 ##  Connect With Me
 
 - LinkedIn:https://www.linkedin.com/in/anesu-ziduche-715922347/
